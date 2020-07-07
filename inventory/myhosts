@@ -1,0 +1,2 @@
+[group1]
+hos01 ansible_ssh_user=ubuntu
