@@ -1,0 +1,7 @@
+---
+ - hosts: group1
+   tasks:
+   
+    - name: print message
+      debug:
+       msg: my first project
